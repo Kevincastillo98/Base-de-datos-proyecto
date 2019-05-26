@@ -6,7 +6,7 @@ un control apropiado de clientes y servicios que se ofrecen.
 
 ##  Diagrama 
 
-![](https://github.com/Kevincastillo98/Base-de-datos-proyecto/blob/master/database.png)
+![](https://github.com/Kevincastillo98/Base-de-datos-proyecto/blob/master/Diagramas/database.png)
 
 ## Futuras propuestas
 1. Poder llevar un control de los usuarios que adquieren con mayor frecuencia el servicios
