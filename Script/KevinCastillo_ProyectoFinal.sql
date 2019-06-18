@@ -45,4 +45,3 @@ CREATE TABLE servicio (
 );
 
 
-INSERT INTO empleado VALUES(3,'José','Ramirez','5543120312','joser@gmail.com');
